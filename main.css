@@ -10,14 +10,14 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-div :nth-child(1){
+div {
   border-color: yellow;
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-div :nth-child(3) {
+div div div {
   border-color: purple;
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent; /* the right side */
