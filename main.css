@@ -18,5 +18,8 @@ div div {
 }
 
 div div div {
-  color: purple;
+  border-color: purple;
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle */
 }
