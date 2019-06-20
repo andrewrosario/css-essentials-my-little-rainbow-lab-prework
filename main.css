@@ -30,3 +30,11 @@ div div div div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+div div div div div {
+  border-color: #06f
+}
+
+div div div div div div {
+  border-color: #8a2be2
+}
