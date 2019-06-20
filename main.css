@@ -13,3 +13,7 @@ div {
 div div {
   color: yellow;
 }
+
+div div div {
+  color: purple;
+}
